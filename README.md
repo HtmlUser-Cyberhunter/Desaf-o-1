@@ -31,3 +31,5 @@ Al hacer clic hasta finalizar la lista de nombres (se supone que no deberia suce
 Bueno esto fue mi primer desafío, gracias por echar un vistazo a lo que he podido realizar hasta ahora. Si desean compartir conmigo alguna mejora, sugerencia, libro o algo que agregue valor pueden hacerlo al correo htmluserciberhunter@gmail.com.
 
  <h2> <p align="center"> Muchas Gracias</h2>
+
+Tambien acepto donaciones si deseas apoyarme con mi educacion 
